@@ -1,0 +1,4 @@
+useNavigation
+StyleSheet
+TouchableOpacity
+rnfc=import React from 'react';\n\nexport default function |() {\n  return null;\n}
