@@ -5,7 +5,16 @@
     "version": "1.0.0",
     "orientation": "default",
     "userInterfaceStyle": "dark",
-    "android": { "package": "com.codehub.app" },
-    "ios": { "bundleIdentifier": "com.codehub.app" }
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "android": { 
+      "package": "com.codehub.app" 
+    },
+    "ios": { 
+      "bundleIdentifier": "com.codehub.app" 
+    }
   }
 }
